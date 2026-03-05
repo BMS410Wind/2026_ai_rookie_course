@@ -1,3 +1,9 @@
+#我的修改: 
+
+需要裝vllm、ollama
+1.將embadding工具改成voyage-4-nano **https://huggingface.co/voyageai/voyage-4-nano** 
+2.修改切chunk方式
+
 # 2026 AI Rookie Course - RAG 實作工作坊
 
 這個儲存庫包含 **2026 AI Rookie Course** 中關於 **RAG (Retrieval-Augmented Generation)** 技術的系列實驗與講義。透過本系列實作，您將學習如何從零開始建構、優化以及評估一個完整的 RAG 系統。
